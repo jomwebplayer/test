@@ -9,6 +9,7 @@
 
 // no direct access
 defined('_JEXEC') or die('Restricted access');
+//testing
 
 // Import Joomla! libraries
 jimport( 'joomla.application.component.view');
